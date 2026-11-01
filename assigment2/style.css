@@ -1,0 +1,581 @@
+.left-bar img{
+    width:10%;
+}
+.navbar ul li a{
+    color: black;
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.d-flex{
+    display: flex;
+    column-gap: 23px;
+    position: sticky;
+    top: 0;
+}
+.align-items{
+    align-items: center;
+}
+.right-bar{
+    font-size: 25px;
+    position: sticky;
+    top: 0;
+}
+.section-1{
+    position: sticky;
+    top: 0;
+    background-color: whitesmoke;
+    height: 90px;
+}
+.section-2 img{
+    width: 30%;
+    height: 20%;
+    border-radius: 60px;
+    border: 3px solid rgba(128, 128, 128, 0.575);
+    padding: 50px;
+    margin: 20px;
+}
+.pr-1{
+    background-color: rgba(0, 0, 255, 0.507);
+    width: 6%;
+    color: white;
+    border-radius: 20px;
+    padding: 15px;
+    font-size:15px;
+    }
+.pargraphs{
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+    gap: 20px;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+.calm{
+    width: 100%;
+}
+.res{
+    color: darkblue;
+    font-size: 50px;
+    display: flex;
+}
+.head{
+    display: flex;
+    font-size: 50px;
+    margin-top: 55px;
+    justify-content: center;
+    position: relative;
+    right: 190px;
+}
+.colm {
+    display: flex;
+    margin-top: 55px;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    right: 190px;
+}
+.perp{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    top: 300px;
+}
+.perp-2{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    top: 500px;
+}
+.button-1{
+    font-size: 40px;
+    margin: 20px;
+    padding: 16px;
+    border-radius: 70px;
+    text-align: center;
+    background-color: #6366f1;
+    width: 45%;
+    height: 85%;
+    display: flex;
+    position: absolute;
+    left: 47%;
+    top: 680px;
+    padding-left: 170px;
+    color: white;
+    }
+.perp-3{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 60%;
+    top: 530px;
+    text-decoration: line-through;
+}
+.section-3 span{
+    color: red;
+    border-radius: 18px;
+    background-color: rgba(255, 0, 0, 0.477);
+    padding: 10px;
+    display: flex;
+    position: absolute;
+    left: 67%;
+    top: 558px;
+    justify-content: center;
+}
+.perp-4{
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 625px;
+    font-size: 22px;
+}
+.button-2{
+    font-size: 40px;
+    margin: 20px;
+    padding: 16px;
+    border-radius: 70px;
+    background-color: white;
+    width: 45%;
+    height: 85%;
+    display: flex;
+    position: absolute;
+    left: 47%;
+    top: 800px;
+    text-align: center;
+    padding-left: 230px;
+}
+.section-4{
+    display: block;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    top: 1000px;
+    height: 1000px;
+    background-color:whitesmoke;
+    width: 100%;
+    margin: 0;
+}
+.heads{
+    font-size: 50px;
+}
+.section-4 span{
+    color: #6366f1;
+}
+.section-4 h3{
+    font-size: 40px;
+}
+.section-5 img{
+    width: 5%;
+    position: absolute;
+    left: 7%;
+}
+.section-5 span{
+    color: #6366f1;
+    font-size: 25px;
+    position: absolute;
+    left: 6%;
+    top: 325px;
+}
+.section-5 h2{
+    font-size: 40px;
+    position: absolute;
+    left: 3%;
+    top: 350px;
+}
+hr{
+    width: 25%;
+    position: absolute;
+    left: 1%;
+    top: 670px;
+}
+.off{
+    font-size: 30px;
+    position: absolute;
+    left: 3%;
+    top: 440px;
+    width: 20%;
+}
+.section-5 h1{
+    font-size: 45px;
+    color: #45416f;
+    position: absolute;
+    left: 3%;
+    top: 670px;
+    line-height: 1.4;
+}
+.on{
+    font-size: 25px;
+    color: gray;
+    position: absolute;
+    left: 3%;
+    top: 740px;
+    line-height: 1.4;
+}
+.parent img{
+    width: 5%;
+    position: absolute;
+    left: 40%;
+}
+.parent span{
+    position: absolute;
+    left: 40%;
+    top: 325px;
+}
+.parent h2{
+    font-size: 40px;
+    position: absolute;
+    left: 40%;
+    top: 350px;
+}
+.porp{
+    font-size: 30px;
+    position: absolute;
+    left: 38%;
+    top: 440px;
+    width: 20%;
+}
+.parent hr{
+    width: 25%;
+    position: absolute;
+    left: 38%;
+    top: 670px;
+}
+.parent h1{
+    position: absolute;
+    left: 42%;
+    top: 675px;
+}
+.orpe{
+    position: absolute;
+    left: 42%;
+    top: 750px;
+    color: gray;
+    font-size: 25px;
+}
+.child-1 img{
+    width: 5%;
+    position: absolute;
+    left: 75%;
+}
+.child-1 span{
+    position: absolute;
+    left: 75%;
+    top: 325px;
+}
+.child-1 h2{
+    font-size: 40px;
+    position: absolute;
+    left: 75%;
+    top: 350px;
+}
+.pref{
+    font-size: 30px;
+    position: absolute;
+    left: 75%;
+    top: 440px;
+    width: 20%;
+}
+.child-1 hr{
+    width: 25%;
+    position: absolute;
+    left: 73%;
+    top: 670px;
+}
+.child-1 h1{
+    position: absolute;
+    left: 75%;
+    top: 675px;
+}
+.own{
+     position: absolute;
+    left: 75%;
+    top: 750px;
+    color: gray;
+    font-size: 25px;
+}
+.reva{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 100%;
+}
+.child-2 img{
+    width: 5%;
+    position: absolute;
+    left: 7%;
+    top: 900px;
+}
+.child-2 span{
+    color: #6366f1;
+    font-size: 25px;
+    position: absolute;
+    left: 6%;
+    top: 1000px;
+}
+.child-2 h2{
+    font-size: 40px;
+    position: absolute;
+    left: 3%;
+    top: 1020px;
+}
+.light{
+    font-size: 25px;
+    position: absolute;
+    left: 2%;
+    top: 1100px;
+    width: 20%;
+}
+.child-2 hr{
+    width: 25%;
+    position: absolute;
+    left: 2%;
+    top: 1250px;
+}
+.child-2 h1{
+    position: absolute;
+    left: 2%;
+    top: 1255px;
+    font-size: 45px;
+    color: #45416f;
+}
+.dark{
+    color: gray;
+    position: absolute;
+    left: 2%;
+    top: 1325px;
+    font-size: 25px
+}
+.child-3 img{
+    width: 5%;
+    position: absolute;
+    left: 40%;
+    top: 910px;
+}
+.child-3 span{
+     color: #6366f1;
+    font-size: 25px;
+    position: absolute;
+    left: 40%;
+    top: 1010px;
+}
+.child-3 h2{
+    font-size: 40px;
+    position: absolute;
+    left: 40%;
+    top: 1020px;
+}
+.sugar{
+    font-size: 25px;
+    position: absolute;
+    left: 40%;
+    top: 1100px;
+    width: 20%;
+}
+.child-3 hr{
+    width: 25%;
+    position: absolute;
+    left: 40%;
+    top: 1250px;
+}
+.child-3 h1{
+    position: absolute;
+    left: 40%;
+    top: 1255px;
+    font-size: 45px;
+    color: #45416f;
+}
+.sult{
+    color: gray;
+    position: absolute;
+    left: 40%;
+    top: 1325px;
+    font-size: 25px
+}
+.child-4 img{
+    width: 5%;
+    position: absolute;
+    left: 77%;
+    top: 920px;
+}
+.child-4 span{
+    color: #6366f1;
+    font-size: 25px;
+    position: absolute;
+    left: 77%;
+    top: 1015px;
+}
+.child-4 h2{
+    font-size: 40px;
+    position: absolute;
+    left: 77%;
+    top: 1020px;
+}
+.orpan{
+    font-size: 25px;
+    position: absolute;
+    left: 77%;
+    top: 1100px;
+    width: 20%;
+}
+.child-4 hr{
+     width: 25%;
+    position: absolute;
+    left: 75%;
+    top: 1250px;
+}
+.child-4 h1{
+    position: absolute;
+    left: 77%;
+    top: 1255px;
+    font-size: 45px;
+    color: #45416f;
+}
+.pap{
+    color: gray;
+    position: absolute;
+    left: 77%;
+    top: 1325px;
+    font-size: 25px
+}
+.square{
+    background-color: #6366f1;
+    padding: 25px;
+    width: 85%;
+    height: 15%;
+    position: absolute;
+    left: 5%;
+    right: 5%;
+    top: 1250px;
+    margin-top: 200px;
+    border-radius: 25px;
+}
+.square h3{
+    position: absolute;
+    left: 2%;
+    top: 1%;
+    color: rgb(230, 217, 217);
+} 
+.square h1{
+    position: absolute;
+    left: 2%;
+    top: 85px;
+    color: white;
+}
+.square p{
+    position: absolute;
+    left: 2%;
+    top: 140px;
+    font-size: 20px;
+    color: rgb(230, 217, 217);
+}
+.square button{
+    position: absolute;
+    background-color: white;
+    color: #6366f1;
+    width: 25%;
+    padding: 30px;
+    left: 72%;
+    top: 50px;
+    font-size: 25px;
+    border-radius: 50px;
+}
+.computer{
+    background-color: white;
+}
+.computer h1{
+    position: absolute;
+    left: 32%;
+    top: 1750px;
+    font-size: 50px;
+}
+.computer p{
+    font-size: 35px;
+    position: absolute;
+    left: 27%;
+    top: 1850px;
+}
+.rating{
+    display: flex;
+    position: relative;
+    top: 900px;
+    left: 5%;
+}
+.rating img{
+    width: 35px;
+}
+.rating h1{
+    position: absolute;
+    left: 30px;
+    top: -200px;
+    font-size: 100px;
+}
+.rating p{
+    font-size: 25px;
+    position: absolute;
+    top: 40px;
+    left: -15px;
+}
+body{
+    overflow-x: hidden;
+}
+.rating span{
+    color: black;
+    position: absolute;
+    top: 125px;
+    left: 0;
+}
+.bar span{
+    color: black;
+    position: absolute;
+    top: 130px;
+    left: 15%;
+}
+.progress{
+    width: 78%;
+    height: 100%;
+    background-color: #dea441;
+    border-radius: 20px;
+}
+.cable{
+    position: relative;
+    left: 25%;
+    top: 750px;
+}
+.man{
+     border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    top: -10px;
+    left: 20%;
+}
+.women{
+   display: inline-block;
+   width: 35px;
+   position: relative;
+   right: 17%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
